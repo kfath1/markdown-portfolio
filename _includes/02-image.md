@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of cool octo](https://img00.deviantart.net/3852/i/2016/104/5/3/splatoocat_by_nixiescream-d9yx3wg.png)
