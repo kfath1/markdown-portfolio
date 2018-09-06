@@ -1,9 +1,5 @@
 Skills:
-* Games
-* Games
-* Games
-* Games
-* Games
-* Games
-* Games
+**gAMER**
+__smart__
+*he*
 * :star:
